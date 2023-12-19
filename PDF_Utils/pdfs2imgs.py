@@ -32,7 +32,7 @@ def convert_pdfs_to_images(input_directory, output_directory):
             print(f'PDF pages from {filename} successfully converted to images. Saved in: {output_folder}')
 
 
-input_directory = 'docs/pdfs/' 
-output_directory = 'images/'
+# input_directory = 'docs/pdfs/' 
+# output_directory = 'images/'
 
-convert_pdfs_to_images(input_directory, output_directory)
+# convert_pdfs_to_images(input_directory, output_directory)

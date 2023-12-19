@@ -32,7 +32,7 @@ def split_pdf_to_images(pdf_path, output_dir):
 
 
 
-pdf_path = 'docs/pdfs/BANK.pdf'
-output_directory = 'images/'
+# pdf_path = 'docs/pdfs/BANK.pdf'
+# output_directory = 'images/'
 
-split_pdf_to_images(pdf_path, output_directory)
+# split_pdf_to_images(pdf_path, output_directory)
